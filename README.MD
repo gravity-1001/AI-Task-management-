@@ -1,7 +1,7 @@
 # AI Task Management Agent
 
 
-## NB: The project has been updated to include a fully functional chatbot with additional tools, to perfom multiple task management processes using Todoist. It can be accessed in the streamlit_UI folder. The updated project aims to provide a more comprehensive and interactive experience for users. Happy Learning 😊
+A fully functional chatbot with additional tools, to perfom multiple task management processes using Todoist. It can be accessed in the streamlit_UI folder. The project aims to provide a more comprehensive and interactive experience for users. 
 
 This project demonstrates how AI agents can integrate with task management tools to automate workflows seamlessly. The application uses Cohere's LLM to process user inputs, interact with Asana, and perform actions like creating tasks with due dates—all through a conversational interface.
 
